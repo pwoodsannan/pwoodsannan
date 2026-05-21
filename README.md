@@ -49,15 +49,6 @@ I have been part of two teams and enjoyed them both thoroughly. One team taught 
 **MSc Applied AI, Cranfield University (in progress)**
 An incredible course that I am loving. The content has given me a wide understanding of AI. I now feel confident enough in my own understanding to have my own theories and ideas. I have also met so many people from different technical backgrounds, which has been interesting to discuss and learn from.
 
-
-## Let's Talk About
-
-Agentic AI and multi-agent systems
-
-Responsible and ethical AI development
-
-Career pivots from engineering to tech. I have found the change sometimes challenging but rewarding.
-
 ---
 
 **Connect with me**
