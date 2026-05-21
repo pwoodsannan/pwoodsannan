@@ -47,7 +47,7 @@ Mechanical Engineering taught me how to approach problems and solve them effcien
 I have been part of two teams and enjoyed them both thoroughly. One team taught me about real hands on data science and data analytics, and the other about company strategy within the Data and AI area.
 
 **MSc Applied AI, Cranfield University (in progress)**
-An incredible course that I am loving. The content has given me a wide understanding of AI. I now feel confident enough in my own understanding to have my own theories and ideas. I have also met so many people from different technical backgrounds, which has been interesting to discuss and learn from.
+An incredible course that I am loving. The content has given me a wide understanding of AI. I now feel confident enough in my own understanding to have my own theories and ideas. On the course I have met people from many different technical backgrounds, which has made for some really interesting discussions and has broadened my perspective.
 
 ---
 
