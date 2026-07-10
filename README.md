@@ -1,6 +1,6 @@
 Hello! My name is Patricia 🪩
 
-I am an early-career AI and Machine Learning engineer looking to build my career. I am a creative person who also enjoys hockey and swimming at the local pool. Being creative means that when I come across a new idea or concept, I try to connect it to something I already understand where I can. I ask myself what is similar, what is different, and build my understanding from there. When something is completely new, I enjoy the process of figuring it out from scratch.
+I am an early-career AI and Machine Learning engineer looking to build my career. I am a creative person who also enjoys hockey and swimming at the local pool or lakes. Being creative means that when I come across a new idea or concept, I try to connect/apply it to something I already understand where I can. I ask myself what is similar, what is different, and build my understanding from there. When something is completely new, I enjoy the process of figuring it out from scratch.
 
 ## My Tech Stack
 
