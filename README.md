@@ -44,7 +44,7 @@ I am an early-career AI and Machine Learning engineer looking to build my career
 Mechanical Engineering taught me how to approach problems and solve them effciently. I learnt how limitations and constraints are important to understand before rushing in to a solution.
 
 **Vodafone Graduate Scheme**
-I have been part of two teams and enjoyed them both thoroughly. One team taught me about real hands on data science and data analytics, and the other about company strategy within the Data and AI area.
+I have been part of two teams and enjoyed them both thoroughly. One team taught me about real hands on data science and data analytics, and the other about company strategy within the data and AI.
 
 **MSc Applied AI, Cranfield University (in progress)**
 An incredible course that I am loving. The content has given me a wide understanding of AI. I now feel confident enough in my own understanding to have my own theories and ideas. On the course I have met people from many different technical backgrounds, which has made for some really interesting discussions and has broadened my perspective.
